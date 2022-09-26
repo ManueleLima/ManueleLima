@@ -12,11 +12,11 @@
   <img align="center" alt="Manuele-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Manuele-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Manuele-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Manuele-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
-  <img align="center" alt="Manuele-MySQL" height="40" width="50" 
+  <img align="center" alt="Manuele-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
+  <img align="center" alt="Manuele-MySQL" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">        
-  <img align="center" alt="Manuele-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Manuele-Salesforce" height="30" width="40" 
+  <img align="center" alt="Manuele-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Manuele-Salesforce" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
 </div>
 
@@ -26,6 +26,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-or
 
   <a href="https://www.linkedin.com/in/manuelelima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/ManueleLima/ManueleLima/blob/output/github-contribution-grid-snake.svg)
  
 </div>
