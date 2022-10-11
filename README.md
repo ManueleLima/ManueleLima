@@ -1,7 +1,6 @@
 ### Olá!! Eu sou a Manuele Lima
 
-- 🌱 Esto estudando desenvolvimeto em Back End, DevOps (java), Salesforce
-- 😄 Pronouns: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/ManueleLima">
@@ -15,7 +14,7 @@
   <img align="center" alt="Manuele-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
   <img align="center" alt="Manuele-MySQL" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">        
-  <img align="center" alt="Manuele-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
     <img align="center" alt="Manuele-Salesforce" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
 </div>
